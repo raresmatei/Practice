@@ -30,7 +30,7 @@ public class Main {
         Procesor c2 = new ProcesorCautare("text3");
         Procesor c3 = new ProcesorCautare("text2");
 
-        Processor c4 = new ProcessorCautare("text4");
+        Procesor c4 = new ProcesorCautare("text4");
 
         ProcesorCompus pc1 = new ProcesorCompus();
         pc1.adaugaProcesor(c1);
